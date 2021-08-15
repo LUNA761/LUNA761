@@ -11,4 +11,4 @@
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=LUNA761&color=yellow&label=Profile-Visits&width=26px)
 
-[![Discord(Server)](https://img.shields.io/discord/813255312449601597?color=7289DA&logo=discord&style=for-the-badge&label=Server)](https://discord.gg/cJ4uP2xF7h)
+[![Discord(Server)](https://img.shields.io/discord/784130540269076481?color=7289DA&logo=discord&style=for-the-badge&label=Server)](https://discord.gg/bobas)
