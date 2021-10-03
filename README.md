@@ -1,3 +1,6 @@
+
+### Stats
+
 # ![Stats](https://github-readme-stats.vercel.app/api?username=LUNA761&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula)
 
 # ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=LUNA761&hide_border=true&theme=tokyonight)
@@ -13,5 +16,6 @@
 
 [![Discord(Server)](https://img.shields.io/discord/784130540269076481?color=7289DA&logo=discord&style=for-the-badge&label=Server)](https://discord.gg/bobas)
 
+### Information
 
-A quick fyi, all of my archived open source discord bots are old and bad code. Please excuse my past self.
+All of my archived open source discord bots are old and bad code. Please excuse my past self.
