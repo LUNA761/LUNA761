@@ -7,10 +7,6 @@
 
 # ![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=LUNA761&hide_border=true&theme=blue-green)
 
-### Information
-
-All of my archived open source discord bots are old and bad code. Please excuse my past self.
-
 ### Socials 
 <a href="https://discord.gg/bobas">
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
