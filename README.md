@@ -1,11 +1,11 @@
 
 ### Stats
 
-# ![Stats](https://github-readme-stats.vercel.app/api?username=LUNA761&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=LUNA761&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula)
 
-# ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=LUNA761&hide_border=true&theme=tokyonight)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=LUNA761&hide_border=true&theme=tokyonight)
 
-# ![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=LUNA761&hide_border=true&theme=blue-green)
+![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=LUNA761&hide_border=true&theme=blue-green)
 
 ### Socials 
 <a href="https://discord.gg/bobas">
