@@ -21,6 +21,9 @@
 ### 📊 Stats:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=luna761&theme=radical&show_icons=true&count_private=true)
   
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=luna761&hide_border=true&theme=tokyonight)
+
+![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=LUNA761&hide_border=true&theme=blue-green)
  
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luna761&theme=solarized_dark)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luna761&theme=solarized_dark)
