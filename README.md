@@ -1,17 +1,25 @@
+### Hello, I'm Luna.
 
-### Stats
+---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LUNA761&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula)
+<br/>
 
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=LUNA761&hide_border=true&theme=tokyonight)
+- 💻 I am currently working on Supreme & Hell (Discord Bots)
+- 🙂 Pronouns: He/Him
+- ⚡ Fun fact: I can do a damn good girl voice.
 
-![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=LUNA761&hide_border=true&theme=blue-green)
+<br/>
 
-### Socials 
-<a href="https://discord.gg/bobas">
-  <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+### 🏆 Trophys:
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=luna761&column=8&theme=discord&no-frame=true&no-bg=true"/>
 </a>
 
-![Profile Visits](https://komarev.com/ghpvc/?username=LUNA761&color=yellow&label=Profile-Visits&width=26px)
 
-[![Discord(Server)](https://img.shields.io/discord/784130540269076481?color=7289DA&logo=discord&style=for-the-badge&label=Server)](https://discord.gg/bobas)
+### 📊 Stats:
+![Github stats](https://github-readme-stats.vercel.app/api?username=luna761&theme=radical&show_icons=true&count_private=true)
+  
+ 
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luna761&theme=solarized_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luna761&theme=solarized_dark)
+![Stats Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luna761&theme=solarized_dark)
