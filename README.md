@@ -8,7 +8,7 @@
 - 🙂 Pronouns: He/Him
 - ⚡ Fun fact: I can do a damn good girl voice.
 
-[![Discord Server](https://img.shields.io/discord/708607643987476480?color=7289DA&logo=discord&style=for-the-badge&label=Supreme)](https://discord.gg/supreme)
+<iframe src="https://canary.discord.com/widget?id=708607643987476480&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 <br/>
 
