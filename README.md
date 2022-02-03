@@ -1,4 +1,4 @@
-### Hello, I'm Zach Lagden.
+### Hello, I'm Zach.
 
 ---
 
