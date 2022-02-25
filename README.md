@@ -4,7 +4,6 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/508372340904558603)](https://discord.com/users/508372340904558603)
 
-<br/>
 
 - 💻 I am currently working on Supreme & Hell (Discord Bots)
 - 🙂 Pronouns: He/Him
