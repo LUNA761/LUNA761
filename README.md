@@ -6,7 +6,7 @@
 
 ---
 
-- 💻 I am currently working on Supreme & Hell (Discord Bots)
+- 💻 I am currently working on Supreme, Hell & RickBot (Discord Bots)
 - 🙂 Pronouns: He/Him
 - ⚡ Fun fact: I can do a damn good uwu girl voice.
 - 💼 Work: I mostly work privately, please message me on [discord](https://discord.com/users/508372340904558603/) for information on my work.
