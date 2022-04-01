@@ -1,0 +1,13 @@
+I am going to be deleting most of my online presence (leaving most servers, becoming inactive, removing friends, deleting socials) for some reasons I will NOT (so dont ask) say.
+
+It's been great but it needs to end, for my own sake.
+
+I will be stopping all private development for all servers. (I will send an folder witl all the code and instructions on how to use it to you)
+
+I will be leaving most servers I am in and will become inactive in the ones I stay in.
+
+In terms of accepting jobs, I won't be.
+
+I am going to try to focus on myself, my studies, the amazing people around me, and my family.
+
+<3 - luna
