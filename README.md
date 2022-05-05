@@ -6,10 +6,10 @@
 
 ---
 
-- 💻 I am currently working on Supreme, Hell & RickBot (Discord Bots)
+- 💻 I am currently working on ur mum
 - 🙂 Pronouns: He/Him
-- ⚡ Fun fact: I can do a damn good uwu girl voice.
-- 💼 Work: I mostly work privately, please message me on [discord](https://discord.com/users/508372340904558603/) for information on my work.
+- ⚡ Fun fact: I dislike everyone<3
+- 💼 Work: I work privately, so fuck off.
 
 [![Discord Server](https://img.shields.io/discord/708607643987476480?color=7289DA&logo=discord&style=for-the-badge&label=Supreme)](https://discord.gg/supreme)
 
