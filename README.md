@@ -11,8 +11,6 @@
 - ⚡ Fun fact: I dislike everyone<3
 - 💼 Work: I work privately, so fuck off.
 
-[![Discord Server](https://img.shields.io/discord/708607643987476480?color=7289DA&logo=discord&style=for-the-badge&label=Supreme)](https://discord.gg/supreme)
-
 <br/>
 
 ### 🏆 Trophys:
