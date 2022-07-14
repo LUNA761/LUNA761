@@ -9,7 +9,7 @@
 - 💻 I am currently working on ur mum
 - 🙂 Pronouns: He/Him
 - ⚡ Fun fact: I dislike everyone<3
-- 💼 Work: I work privately, so fuck off.
+- 💼 Work: Contact me
 
 <br/>
 
